@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayyed Asif</h1>
 
 <h3 align="center">
-Full-Stack Software Developer | Backend Enthusiast  
-Focused on Clean Architecture, Robust APIs & High-Performance Systems  
-Exploring AI & Modern Technologies 🚀
+Full-Stack Developer | Backend & AI-Integrated Systems Enthusiast
 </h3>
 
 ---
